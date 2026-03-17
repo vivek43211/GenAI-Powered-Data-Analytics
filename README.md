@@ -1,12 +1,6 @@
 # GenAI-Powered-Data-Analytics
 This is GenAI Powered Data Analytics 
 # Task -1  Tata GenAI Data Analytics – Delinquency Risk EDA Project
-
-![EDA](https://img.shields.io/badge/Task-Exploratory%20Data%20Analysis-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Domain](https://img.shields.io/badge/Domain-Credit%20Risk-orange)
-![Tools](https://img.shields.io/badge/Tools-GenAI%20%7C%20EDA%20%7C%20Excel-blueviolet)
-
 ---
 
 ## 📌 Project Overview
